@@ -1,12 +1,12 @@
 {
-  "name": "easy-email-extensions",
+  "name": "@sambegin/easy-email-extensions",
   "license": "MIT",
   "description": "Email editor",
   "version": "4.8.0",
   "author": "m-Ryan",
   "repository": {
     "type": "git",
-    "url": "git@github.com:m-Ryan/easy-email.git"
+    "url": "git@github.com:sambegin/easy-email.git"
   },
   "keywords": [
     "email editor core"
