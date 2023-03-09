@@ -2,7 +2,7 @@
   "name": "@sambegin/easy-email-core",
   "license": "MIT",
   "description": "Email editor",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "author": "m-Ryan",
   "repository": {
     "type": "git",
@@ -73,12 +73,11 @@
   "dependencies": {
     "js-beautify": "^1.14.4",
     "lodash": "^4.17.21",
-    "nanoid": "^3.3.1",
     "uuid": "^8.3.2"
   },
   "peerDependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
-  "gitHead": "f6cf54160ffdba0d4d6b23483293dd9190d2d2c2"
+  "gitHead": "81bd0920f77cc2089a1e0190ef0c0f91ca7625eb"
 }
